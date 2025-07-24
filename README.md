@@ -35,7 +35,7 @@ extraction-api/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Hitenjain20/Extraction_schema.git
 cd extraction-api
 
 # Install dependencies with UV
